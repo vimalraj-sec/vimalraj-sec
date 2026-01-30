@@ -29,7 +29,7 @@
 ## 📂 Repository Highlights
 - Pentesting Methodologies & Cheatsheets  
 - Enumeration & Exploitation Notes  
-- OSCP-Style Labs & Practice  
+- OSCP-Style Labs & Practice Writeups
 - Security Automation Experiments
 
 ## 🎓 Certification
