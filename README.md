@@ -1,38 +1,45 @@
 # 👋 Hi, I'm Vimal Raj
 
-🔐 **Offensive Security / Progressive Cyber Security Enthusiast**  
-🎯 OSCP Certified | Web & Network Security  
-📍 India
+![OSCP](https://img.shields.io/badge/OSCP-Certified-red?style=flat-square)
+![Offensive Security](https://img.shields.io/badge/Offensive%20Security-Penetration%20Testing-blue?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Kali-informational?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Basic-yellow?style=flat-square)
 
-## 🛠️ Skills & Interests
+## 💼 What I Do
+- Conduct Web & Network Penetration Testing using structured methodologies  
+- Perform vulnerability assessments and risk analysis  
+- Identify misconfigurations in Linux & Windows environments  
+- Exploit common and advanced web vulnerabilities  
+- Document findings with clear remediation guidance  
+
+## 🛠️ Technical Skills
+**Offensive Security**
 - Penetration Testing (Web, Network, Linux, Windows)
+- Web Application Pentesting (OWASP Top 10)
 - Vulnerability Assessment & Enumeration
-- Privilege Escalation (Linux / Windows)
-- Web Exploitation (XSS, SQLi, SSTI, SSRF, CSRF)
-- CTFs, Labs, and Hands-on Practice
-- Basics of Automation & AI-assisted Security Testing
+- Security Automation & AI-assisted Testing (Learning & Experimentation)
 
-## 🧪 Tools I Use
+**Tools I Use**
 - Nmap, Burp Suite, Metasploit
 - Gobuster, FFUF, Nikto
 - SQLmap, Hydra, John, Hashcat
+- BloodHound, Impacket tools, Mimikatz
 - Kali Linux, Bash, Python (basic)
-- Bloodhound, Impacket tools, mimikatz
 
-## 📂 What You'll Find Here
-- 📝 Pentesting Cheatsheets & Notes  
-- 🔍 Enumeration & Exploitation Guides  
-- 🧠 OSCP-style Practice Writeups  
-- ⚙️ Small Scripts & Automation Experiments  
+## 📂 Repository Highlights
+- Pentesting Methodologies & Cheatsheets  
+- Enumeration & Exploitation Notes  
+- OSCP-Style Labs & Practice  
+- Security Automation Experiments
 
 ## 🎓 Certification
-- **OSCP – Offensive Security Certified Professional** (Nov 2025)
+- **OSCP+ – Offensive Security Certified Professional** (Nov 2025)
+
 
 ## 📫 Connect With Me
 - LinkedIn: *https://linkedin.com/in/vimalraj-sec*
 
 > “Only two things exist: the known and the unknown. Learn the unknown.”
-
 
 <!--
 **vimalraj-sec/vimalraj-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
