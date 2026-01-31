@@ -27,10 +27,7 @@
 - Kali Linux, Bash, Python (basic)
 
 ## 📂 Repository Highlights
-- Pentesting Methodologies & Cheatsheets  
-- Enumeration & Exploitation Notes  
-- OSCP-Style Labs & Practice Writeups
-- Security Automation Experiments
+- [OSCP-Style Labs & Practice Writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
 
 ## 🎓 Certification
 - **OSCP+ – Offensive Security Certified Professional** (Nov 2025)
