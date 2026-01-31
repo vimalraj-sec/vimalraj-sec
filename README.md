@@ -10,28 +10,13 @@
 - Perform vulnerability assessments and risk analysis  
 - Identify misconfigurations in Linux & Windows environments  
 - Exploit common and advanced web vulnerabilities  
-- Document findings with clear remediation guidance  
-
-## 🛠️ Technical Skills
-**Offensive Security**
-- Penetration Testing (Web, Network, Linux, Windows)
-- Web Application Pentesting (OWASP Top 10)
-- Vulnerability Assessment & Enumeration
-- Security Automation & AI-assisted Testing (Learning & Experimentation)
-
-**Tools I Use**
-- Nmap, Burp Suite, Metasploit
-- Gobuster, FFUF, Nikto
-- SQLmap, Hydra, John, Hashcat
-- BloodHound, Impacket tools, Mimikatz
-- Kali Linux, Bash, Python (basic)
+- Document findings with clear remediation guidance
 
 ## 📂 Repository Highlights
 - [OSCP-Style Labs & Practice Writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
 
 ## 🎓 Certification
 - **OSCP+ – Offensive Security Certified Professional** (Nov 2025)
-
 
 ## 📫 Connect With Me
 - LinkedIn: *https://linkedin.com/in/vimalraj-sec*
