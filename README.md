@@ -19,11 +19,15 @@
 - **OSCP+ – Offensive Security Certified Professional** (Nov 2025)
 
 ## 📫 Connect With Me
-- LinkedIn: *https://linkedin.com/in/vimalraj-sec*
 
-> “Only two things exist: the known and the unknown. Learn the unknown.”
+<a href="https://linkedin.com/in/vimalraj-sec" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
+       alt="LinkedIn" 
+       width="40"/>
+</a>
 
 <!--
+> “Only two things exist: the known and the unknown. Learn the unknown.”
 **vimalraj-sec/vimalraj-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
