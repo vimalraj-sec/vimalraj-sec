@@ -6,11 +6,12 @@
 ![Python](https://img.shields.io/badge/Python-Basic-yellow?style=flat-square)
 
 ## 💼 What I Do
-- Conduct Web & Network Penetration Testing using structured methodologies  
-- Perform vulnerability assessments and risk analysis  
-- Identify misconfigurations in Linux & Windows environments  
-- Exploit common and advanced web vulnerabilities  
-- Document findings with clear remediation guidance
+- Perform hands-on Web and Network Penetration Testing using offensive security methodologies
+- Conduct structured enumeration to identify vulnerabilities and misconfigurations  
+- Exploit common web and system-level weaknesses in Linux and Windows environments  
+- Practice end-to-end attack paths from initial access to privilege escalation  
+- Create clear and concise documentation with remediation-focused insights
+
 
 ## 📂 Repository Highlights
 - [OSCP-Style Labs & Practice Writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
