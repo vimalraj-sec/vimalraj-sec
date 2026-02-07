@@ -6,11 +6,11 @@
 ![Python](https://img.shields.io/badge/Python-Basic-yellow?style=flat-square)
 
 ## 💼 What I Can Do
-- Perform hands-on Web and Network Penetration Testing using offensive security methodologies
+- Perform hands-on Web and Network Penetration Testing using offensive security methodologies  
 - Conduct structured enumeration to identify vulnerabilities and misconfigurations  
 - Exploit common web and system-level weaknesses in Linux and Windows environments  
 - Practice end-to-end attack paths from initial access to privilege escalation  
-- Create clear and concise documentation with remediation-focused insights
+- Create clear and concise documentation with remediation-focused insights  
 
 
 ## 📂 Repository Highlights
