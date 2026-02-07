@@ -5,7 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Kali-informational?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Basic-yellow?style=flat-square)
 
-## 💼 What I Do
+## 💼 What I Can Do
 - Perform hands-on Web and Network Penetration Testing using offensive security methodologies
 - Conduct structured enumeration to identify vulnerabilities and misconfigurations  
 - Exploit common web and system-level weaknesses in Linux and Windows environments  
