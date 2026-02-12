@@ -28,6 +28,9 @@
        width="40"/>
 </a>
 
+
+
+> “Kaizen – 1% consistent growth every day.”
 <!--
 > “Only two things exist: the known and the unknown. Learn the unknown.”
 **vimalraj-sec/vimalraj-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
