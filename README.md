@@ -17,8 +17,9 @@
 - [OSCP-Style Labs & Practice Writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
 - [Penetration Testing Cheatsheet](https://github.com/vimalraj-sec/offensive-security-cheatsheet)
 
-## 🎓 Certification
+## 🎓 Certifications
 - **OSCP+ – Offensive Security Certified Professional** (Nov 2025)
+- **ECSA v9 – EC-Council Certified Security Analyst** (2018)
 
 ## 📫 Connect With Me
 
