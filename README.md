@@ -19,7 +19,7 @@
 
 ## 🎓 Certifications
 - **OSCP+ – Offensive Security Certified Professional** (Nov 2025)
-- **ECSA v9 – EC-Council Certified Security Analyst** (2018)
+- **ECSA v9 – EC-Council Certified Security Analyst**
 
 ## 📫 Connect With Me
 
