@@ -16,6 +16,7 @@
 ## 📂 Repository Highlights
 - [OSCP-Style Labs & Practice Writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
 - [Penetration Testing Cheatsheet](https://github.com/vimalraj-sec/offensive-security-cheatsheet)
+- [Simple Windows 11 Privacy focused Debloater](https://github.com/vimalraj-sec/windows11-debloat)
 
 ## 🎓 Certifications
 - **OSCP+ – Offensive Security Certified Professional** (Nov 2025)
