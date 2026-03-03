@@ -2,16 +2,13 @@
 
 ![OSCP](https://img.shields.io/badge/OSCP-Certified-red?style=flat-square)
 ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-Penetration%20Testing-blue?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-Kali-informational?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Basic-yellow?style=flat-square)
 
 ## 💼 What I Can Do
-- Perform hands-on Web and Network Penetration Testing using offensive security methodologies  
-- Conduct structured enumeration to identify vulnerabilities and misconfigurations  
-- Exploit common web and system-level weaknesses in Linux and Windows environments  
-- Practice end-to-end attack paths from initial access to privilege escalation  
-- Create clear and concise documentation with remediation-focused insights  
-
+- Conduct full-scope Web and Network Penetration Testing following industry-standard offensive security methodologies
+- Perform structured reconnaissance and enumeration to identify attack surface, misconfigurations, and exploitable vulnerabilities
+- Exploit web application and system-level weaknesses across Linux and Windows environments to demonstrate real-world risk
+- Simulate complete attack paths from initial access to privilege escalation and lateral movement within Active Directory environments
+- Produce structured penetration testing reports including executive summaries, technical findings, risk ratings, and actionable remediation guidance  
 
 ## 📂 Repository Highlights
 - [OSCP-Style Labs & Practice Writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
