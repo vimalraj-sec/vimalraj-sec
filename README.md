@@ -4,11 +4,11 @@
 ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-Penetration%20Testing-blue?style=flat-square)
 
 ## 💼 What I Can Do
-- Conduct full-scope Web and Network Penetration Testing following industry-standard offensive security methodologies
-- Perform structured reconnaissance and enumeration to identify attack surface, misconfigurations, and exploitable vulnerabilities
-- Exploit web application and system-level weaknesses across Linux and Windows environments to demonstrate real-world risk
-- Simulate complete attack paths from initial access to privilege escalation and lateral movement within Active Directory environments
-- Produce structured penetration testing reports including executive summaries, technical findings, risk ratings, and actionable remediation guidance  
+- Full-scope Web & Network Penetration Testing using industry-standard methodologies
+- Structured reconnaissance & enumeration to identify attack surface and misconfigurations
+- Exploitation of web and system-level vulnerabilities across Linux & Windows environments
+- End-to-end attack simulation: initial access → privilege escalation → lateral movement (AD)
+- Professional reporting with executive summaries, risk ratings, and remediation guidance
 
 ## 📂 Repository Highlights
 - [OSCP-Style Labs & Practice Writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
