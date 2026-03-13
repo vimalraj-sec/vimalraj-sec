@@ -12,7 +12,7 @@
 
 ## 📂 Repository Highlights
 - [OSCP-Style Labs & Practice Writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
-- [Penetration Testing Cheatsheet](https://github.com/vimalraj-sec/offensive-security-cheatsheet)
+- [Penetration Testing Cheatsheet](https://github.com/vimalraj-sec/pentest-cheatsheet-generated)
 - [Simple Windows 11 Privacy focused Debloater](https://github.com/vimalraj-sec/windows11-debloat)
 
 ## 🎓 Certifications
