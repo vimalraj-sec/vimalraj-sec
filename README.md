@@ -11,8 +11,8 @@
 - Professional reporting with executive summaries, risk ratings, and remediation guidance
 
 ## 📂 Repository Highlights
-- [Penetration Testing Cheatsheet](https://github.com/vimalraj-sec/penetration-testing-cheatsheet-offsec)
 - [OSCP-Style Labs & Practice Writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
+- [Penetration Testing Cheatsheet](https://github.com/vimalraj-sec/penetration-testing-cheatsheet-offsec)
 - [Simple Windows 11 Privacy focused Debloater](https://github.com/vimalraj-sec/windows11-debloat)
 
 ## 🎓 Certifications
