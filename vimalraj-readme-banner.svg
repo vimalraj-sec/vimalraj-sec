@@ -1,0 +1,202 @@
+<svg width="800" height="520" viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&amp;display=swap');
+      .mono { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="520" rx="12" fill="#0d1117"/>
+  <!-- Top border accent -->
+  <rect width="800" height="2" rx="0" fill="#f47067"/>
+
+  <!-- Scanline texture strips (subtle) -->
+  <rect x="0" y="0" width="800" height="520" rx="12" fill="url(#scanlines)" opacity="0.03"/>
+
+  <!-- LEFT COLUMN -->
+  <!-- Prompt line -->
+  <text x="40" y="56" font-family="'JetBrains Mono', monospace" font-size="11" fill="#3fb950">~/vimalraj-sec</text>
+  <text x="155" y="56" font-family="'JetBrains Mono', monospace" font-size="11" fill="#8b949e"> on </text>
+  <text x="178" y="56" font-family="'JetBrains Mono', monospace" font-size="11" fill="#79c0ff">main</text>
+  <text x="213" y="56" font-family="'JetBrains Mono', monospace" font-size="11" fill="#8b949e"> ❯ cat README.md</text>
+
+  <!-- Name -->
+  <text x="40" y="105" font-family="'JetBrains Mono', monospace" font-size="36" font-weight="700" fill="#e6edf3" letter-spacing="-1">Vimal Raj</text>
+  <text x="263" y="105" font-family="'JetBrains Mono', monospace" font-size="36" font-weight="700" fill="#f47067">.</text>
+
+  <!-- Cursor -->
+  <rect x="278" y="82" width="3" height="24" fill="#3fb950" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Tagline -->
+  <text x="40" y="130" font-family="'JetBrains Mono', monospace" font-size="12" fill="#8b949e">OSCP+ · Penetration Tester · Red Team Operator</text>
+
+  <!-- Badges row -->
+  <!-- Badge 1: OSCP+ -->
+  <rect x="40" y="148" width="76" height="20" rx="4" fill="#1c1c1c" stroke="#f47067" stroke-width="0.8"/>
+  <circle cx="52" cy="158" r="3" fill="#f47067"/>
+  <text x="59" y="162" font-family="'JetBrains Mono', monospace" font-size="9" fill="#f47067">OSCP+</text>
+
+  <!-- Badge 2: Web & Net -->
+  <rect x="122" y="148" width="110" height="20" rx="4" fill="#1c1c1c" stroke="#30363d" stroke-width="0.8"/>
+  <circle cx="134" cy="158" r="3" fill="#79c0ff"/>
+  <text x="141" y="162" font-family="'JetBrains Mono', monospace" font-size="9" fill="#79c0ff">Web &amp; Network</text>
+
+  <!-- Badge 3: AD -->
+  <rect x="238" y="148" width="104" height="20" rx="4" fill="#1c1c1c" stroke="#30363d" stroke-width="0.8"/>
+  <circle cx="250" cy="158" r="3" fill="#e3b341"/>
+  <text x="257" y="162" font-family="'JetBrains Mono', monospace" font-size="9" fill="#e3b341">Active Directory</text>
+
+  <!-- Badge 4: Chennai -->
+  <rect x="348" y="148" width="76" height="20" rx="4" fill="#1c1c1c" stroke="#30363d" stroke-width="0.8"/>
+  <circle cx="360" cy="158" r="3" fill="#8b949e"/>
+  <text x="367" y="162" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e">Chennai, IN</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="185" x2="540" y2="185" stroke="#21262d" stroke-width="1"/>
+
+  <!-- WHOAMI SECTION -->
+  <text x="40" y="212" font-family="'JetBrains Mono', monospace" font-size="10" fill="#8b949e" letter-spacing="2">## WHOAMI</text>
+
+  <!-- whoami block background -->
+  <rect x="40" y="222" width="320" height="118" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+
+  <text x="58" y="246" font-family="'JetBrains Mono', monospace" font-size="11" fill="#8b949e">role</text>
+  <text x="106" y="246" font-family="'JetBrains Mono', monospace" font-size="11" fill="#3fb950">→</text>
+  <text x="122" y="246" font-family="'JetBrains Mono', monospace" font-size="11" fill="#e6edf3">penetration tester</text>
+
+  <text x="58" y="266" font-family="'JetBrains Mono', monospace" font-size="11" fill="#8b949e">focus</text>
+  <text x="106" y="266" font-family="'JetBrains Mono', monospace" font-size="11" fill="#3fb950">→</text>
+  <text x="122" y="266" font-family="'JetBrains Mono', monospace" font-size="11" fill="#e6edf3">offense / red team ops</text>
+
+  <text x="58" y="286" font-family="'JetBrains Mono', monospace" font-size="11" fill="#8b949e">certs</text>
+  <text x="106" y="286" font-family="'JetBrains Mono', monospace" font-size="11" fill="#3fb950">→</text>
+  <text x="122" y="286" font-family="'JetBrains Mono', monospace" font-size="11" fill="#f47067">OSCP+</text>
+  <text x="167" y="286" font-family="'JetBrains Mono', monospace" font-size="11" fill="#8b949e"> · ECSA v9</text>
+
+  <text x="58" y="306" font-family="'JetBrains Mono', monospace" font-size="11" fill="#8b949e">scope</text>
+  <text x="106" y="306" font-family="'JetBrains Mono', monospace" font-size="11" fill="#3fb950">→</text>
+  <text x="122" y="306" font-family="'JetBrains Mono', monospace" font-size="11" fill="#e6edf3">web · network · AD</text>
+
+  <text x="58" y="326" font-family="'JetBrains Mono', monospace" font-size="11" fill="#8b949e">status</text>
+  <text x="106" y="326" font-family="'JetBrains Mono', monospace" font-size="11" fill="#3fb950">→  open to engagements</text>
+
+  <!-- KILL CHAIN SECTION -->
+  <text x="40" y="370" font-family="'JetBrains Mono', monospace" font-size="10" fill="#8b949e" letter-spacing="2">## ATTACK LIFECYCLE</text>
+
+  <!-- Chain boxes -->
+  <!-- Recon -->
+  <rect x="40" y="380" width="82" height="44" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="81" y="398" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e" text-anchor="middle">01</text>
+  <text x="81" y="414" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#e6edf3" text-anchor="middle">Recon</text>
+
+  <text x="128" y="406" font-family="'JetBrains Mono', monospace" font-size="12" fill="#3fb950" text-anchor="middle">→</text>
+
+  <!-- Enum -->
+  <rect x="134" y="380" width="82" height="44" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="175" y="398" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e" text-anchor="middle">02</text>
+  <text x="175" y="414" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#e6edf3" text-anchor="middle">Enum</text>
+
+  <text x="222" y="406" font-family="'JetBrains Mono', monospace" font-size="12" fill="#3fb950" text-anchor="middle">→</text>
+
+  <!-- Exploit -->
+  <rect x="228" y="380" width="82" height="44" rx="5" fill="#1a1215" stroke="#f47067" stroke-width="1"/>
+  <text x="269" y="398" font-family="'JetBrains Mono', monospace" font-size="9" fill="#f47067" text-anchor="middle">03</text>
+  <text x="269" y="414" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#f47067" text-anchor="middle">Exploit</text>
+
+  <text x="316" y="406" font-family="'JetBrains Mono', monospace" font-size="12" fill="#3fb950" text-anchor="middle">→</text>
+
+  <!-- PrivEsc -->
+  <rect x="322" y="380" width="82" height="44" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="363" y="398" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e" text-anchor="middle">04</text>
+  <text x="363" y="414" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#e6edf3" text-anchor="middle">PrivEsc</text>
+
+  <text x="410" y="406" font-family="'JetBrains Mono', monospace" font-size="12" fill="#3fb950" text-anchor="middle">→</text>
+
+  <!-- Lateral -->
+  <rect x="416" y="380" width="82" height="44" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="457" y="398" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e" text-anchor="middle">05</text>
+  <text x="457" y="414" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#e6edf3" text-anchor="middle">Lateral</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="446" x2="540" y2="446" stroke="#21262d" stroke-width="1"/>
+
+  <!-- CERTS ROW -->
+  <rect x="40" y="456" width="148" height="42" rx="5" fill="#160d0d" stroke="#f47067" stroke-width="0.8"/>
+  <text x="55" y="472" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e">Offensive Security</text>
+  <text x="55" y="488" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#f47067">OSCP+</text>
+  <text x="100" y="488" font-family="'JetBrains Mono', monospace" font-size="10" fill="#e6edf3"> · Nov 2025</text>
+
+  <rect x="196" y="456" width="130" height="42" rx="5" fill="#161b22" stroke="#21262d" stroke-width="0.8"/>
+  <text x="211" y="472" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e">EC-Council</text>
+  <text x="211" y="488" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#79c0ff">ECSA v9</text>
+
+  <!-- RIGHT COLUMN - Skills -->
+  <line x1="560" y1="20" x2="560" y2="500" stroke="#21262d" stroke-width="1"/>
+
+  <text x="580" y="56" font-family="'JetBrains Mono', monospace" font-size="10" fill="#8b949e" letter-spacing="2">## CORE SKILLS</text>
+
+  <!-- Skill bars -->
+  <!-- Web App -->
+  <text x="580" y="88" font-family="'JetBrains Mono', monospace" font-size="11" fill="#e6edf3">Web App Pentesting</text>
+  <rect x="580" y="94" width="180" height="3" rx="1.5" fill="#21262d"/>
+  <rect x="580" y="94" width="166" height="3" rx="1.5" fill="#f47067"/>
+  <text x="768" y="99" font-family="'JetBrains Mono', monospace" font-size="9" fill="#f47067" text-anchor="end">92%</text>
+
+  <!-- Network -->
+  <text x="580" y="120" font-family="'JetBrains Mono', monospace" font-size="11" fill="#e6edf3">Network Pentesting</text>
+  <rect x="580" y="126" width="180" height="3" rx="1.5" fill="#21262d"/>
+  <rect x="580" y="126" width="158" height="3" rx="1.5" fill="#79c0ff"/>
+  <text x="768" y="131" font-family="'JetBrains Mono', monospace" font-size="9" fill="#79c0ff" text-anchor="end">88%</text>
+
+  <!-- AD -->
+  <text x="580" y="152" font-family="'JetBrains Mono', monospace" font-size="11" fill="#e6edf3">Active Directory</text>
+  <rect x="580" y="158" width="180" height="3" rx="1.5" fill="#21262d"/>
+  <rect x="580" y="158" width="153" height="3" rx="1.5" fill="#e3b341"/>
+  <text x="768" y="163" font-family="'JetBrains Mono', monospace" font-size="9" fill="#e3b341" text-anchor="end">85%</text>
+
+  <!-- Linux/Win PrivEsc -->
+  <text x="580" y="184" font-family="'JetBrains Mono', monospace" font-size="11" fill="#e6edf3">Linux/Win PrivEsc</text>
+  <rect x="580" y="190" width="180" height="3" rx="1.5" fill="#21262d"/>
+  <rect x="580" y="190" width="162" height="3" rx="1.5" fill="#3fb950"/>
+  <text x="768" y="195" font-family="'JetBrains Mono', monospace" font-size="9" fill="#3fb950" text-anchor="end">90%</text>
+
+  <!-- Reporting -->
+  <text x="580" y="216" font-family="'JetBrains Mono', monospace" font-size="11" fill="#e6edf3">Reporting</text>
+  <rect x="580" y="222" width="180" height="3" rx="1.5" fill="#21262d"/>
+  <rect x="580" y="222" width="157" height="3" rx="1.5" fill="#f47067"/>
+  <text x="768" y="227" font-family="'JetBrains Mono', monospace" font-size="9" fill="#f47067" text-anchor="end">87%</text>
+
+  <!-- Divider -->
+  <line x1="580" y1="246" x2="770" y2="246" stroke="#21262d" stroke-width="1"/>
+
+  <!-- REPOS section -->
+  <text x="580" y="272" font-family="'JetBrains Mono', monospace" font-size="10" fill="#8b949e" letter-spacing="2">## REPOSITORIES</text>
+
+  <!-- Repo 1 -->
+  <rect x="580" y="282" width="190" height="46" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="594" y="300" font-family="'JetBrains Mono', monospace" font-size="9" fill="#79c0ff">pentest-writeups</text>
+  <rect x="698" y="288" width="52" height="14" rx="3" fill="#1a1a2e" stroke="#30363d" stroke-width="0.5"/>
+  <text x="724" y="299" font-family="'JetBrains Mono', monospace" font-size="8" fill="#8b949e" text-anchor="middle">writeups</text>
+  <text x="594" y="318" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e">OSCP-style lab walkthroughs</text>
+
+  <!-- Repo 2 -->
+  <rect x="580" y="336" width="190" height="46" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="594" y="354" font-family="'JetBrains Mono', monospace" font-size="9" fill="#79c0ff">pentest-cheatsheet</text>
+  <rect x="697" y="342" width="54" height="14" rx="3" fill="#1a1a2e" stroke="#30363d" stroke-width="0.5"/>
+  <text x="724" y="353" font-family="'JetBrains Mono', monospace" font-size="8" fill="#8b949e" text-anchor="middle">reference</text>
+  <text x="594" y="372" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e">Commands, payloads, methodology</text>
+
+  <!-- Repo 3 -->
+  <rect x="580" y="390" width="190" height="46" rx="5" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="594" y="408" font-family="'JetBrains Mono', monospace" font-size="9" fill="#79c0ff">windows11-debloat</text>
+  <rect x="704" y="396" width="46" height="14" rx="3" fill="#1a1a2e" stroke="#30363d" stroke-width="0.5"/>
+  <text x="727" y="407" font-family="'JetBrains Mono', monospace" font-size="8" fill="#8b949e" text-anchor="middle">tool</text>
+  <text x="594" y="426" font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e">Privacy-focused Win11 hardening</text>
+
+  <!-- Footer quote -->
+  <line x1="40" y1="500" x2="760" y2="500" stroke="#21262d" stroke-width="1"/>
+  <text x="400" y="515" font-family="'JetBrains Mono', monospace" font-size="10" fill="#e3b341" text-anchor="middle" font-style="italic">"Kaizen — 1% consistent growth every day."</text>
+</svg>
