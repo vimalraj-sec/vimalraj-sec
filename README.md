@@ -99,7 +99,7 @@ TARGET
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimalraj-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimalraj-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vimalraj-sec)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)](mailto:vimalrajm.sec@gmail.com)
 
 > 💼 **Available for Penetration Tester / Red Team roles — open to on-site and remote opportunities**
