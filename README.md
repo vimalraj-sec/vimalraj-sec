@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## 👋 Who I Am
 
 I'm an offensive security professional based in Chennai, India, specialising in penetration testing, Active Directory attacks, web application security, and privilege escalation.
@@ -26,7 +24,6 @@ I'm not a career changer. I'm a security professional who faced a hard chapter, 
 
 > 💼 **Actively seeking Penetration Tester / Red Team roles — open to Chennai, remote, and EU relocation.**
 
----
 
 ## 🏆 Certifications
 
@@ -35,7 +32,6 @@ I'm not a career changer. I'm a security professional who faced a hard chapter, 
 | **OSCP+** — Offensive Security Certified Professional Plus | OffSec | Nov 2025 |
 | **ECSA v9** — EC-Council Certified Security Analyst | EC-Council | 2018 |
 
----
 
 ## 💼 Professional Background
 
@@ -50,7 +46,6 @@ I'm not a career changer. I'm a security professional who faced a hard chapter, 
 - Compiled **2,600+ structured personal notes** into a public penetration testing reference across 12 attack categories
 - Earned **OSCP+** — a 24-hour hands-on practical examination with no multiple-choice elements and no partial credit
 
----
 
 ## 📂 Featured Repositories
 
