@@ -69,7 +69,7 @@ Enumeration → Service Analysis → Initial Access → Privilege Escalation →
 
 ---
 
-### 📘 [penetration-testing-cheatsheet-offsec](https://github.com/vimalraj-sec/penetration-testing-cheatsheet-offsec)
+### 📘 [penetration-testing-cheatsheet-offsec](https://github.com/vimalraj-sec/pentest-cheatsheet)
 
 **A complete offensive security reference** — compiled from 2,600+ personal notes during OSCP preparation. Structured for real engagement use, not just exam revision.
 
