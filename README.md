@@ -3,23 +3,28 @@
 # Vimal Raj
 ### Offensive Security Professional · OSCP+ Certified · Chennai, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vimalraj--sec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalraj-sec)
-[![Email](https://img.shields.io/badge/Email-vimalrajm.sec%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimalrajm.sec@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge)](mailto:vimalrajm.sec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vimalraj--sec-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalraj-sec)
+[![Email](https://img.shields.io/badge/Email-vimalrajm.sec%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vimalrajm.sec@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat)](mailto:vimalrajm.sec@gmail.com)
 
 </div>
 
+---
+
 ## 👋 Who I Am
 
-I'm an offensive security professional based in **Chennai, India**, specializing in penetration testing, Active Directory attacks, and web application security.
+I'm an offensive security professional based in Chennai, India, specialising in penetration testing, Active Directory attacks, web application security, and privilege escalation.
 
-I started my career in Information Security in 2017 at Iopex Technologies and later worked at Infosys Ltd.
+I started my career in information security in 2017 at Iopex Technologies, then moved to Infosys Ltd. In 2019, a serious family medical crisis required me to step away from my career to become the primary caregiver and take over running our family business.
 
-From 2019 to 2025, I stepped away from the workforce to manage a serious family medical situation while also running our family business. During this time, I stayed committed to cybersecurity — saving money, self-funding my learning, and continuously building my skills.
+I never let go of cybersecurity. While managing the business and family responsibilities, I kept studying — methodically and consistently. 
 
-I created 2,600+ structured notes, completed 80+ full machine exploitation chains, and earned the OSCP+ certification in November 2025.
+I saved money specifically to self-fund my OSCP+ preparation, built 2,600+ structured personal notes, completed 80+ full machine exploitation chains across OffSec Proving Grounds and TryHackMe, and passed the OSCP+ examination in November 2025.
+That certification cost me real sacrifice to earn. Which is exactly why I value it.
 
-> 💼 **Actively seeking VAPT / Penetration Tester roles — open to Chennai-based and remote opportunities.**
+I'm not a career changer. I'm a security professional who faced a hard chapter, never walked away from the field, and came back with proof.
+
+> 💼 **Actively seeking Penetration Tester / Red Team roles — open to Chennai, remote, and EU relocation.**
 
 ---
 
@@ -27,31 +32,31 @@ I created 2,600+ structured notes, completed 80+ full machine exploitation chain
 
 | Certification | Issuer | Year |
 |---|---|---|
-| **OSCP+** — Offensive Security Certified Professional | OffSec | Nov 2025 |
+| **OSCP+** — Offensive Security Certified Professional Plus | OffSec | Nov 2025 |
 | **ECSA v9** — EC-Council Certified Security Analyst | EC-Council | 2018 |
 
 ---
 
 ## 💼 Professional Background
 
-| Period | Role | Company |
+| Period | Role | Organisation |
 |---|---|---|
 | Jul 2017 – Aug 2018 | Trainee Information Security Specialist | **Iopex Technologies** |
 | Sep 2018 – Mar 2019 | Information Security Engineer | **Infosys Ltd** |
-| Apr 2019 – Oct 2025 | Independent Security Researcher *(career break — family medical crisis)* | Self-directed |
-| Nov 2025 – Present | OSCP+ Certified · Actively seeking roles | — |
+| Apr 2019 – Oct 2025 | Independent Security Research & Professional Development | Self-directed |
 
-During my independent research period, I:
-- Completed **80+ full machine exploitation chains** across OffSec Proving Grounds and TryHackMe
-- Compiled **2,600+ structured notes** into a public penetration testing cheatsheet
-- Earned the **OSCP+** certification — one of the most respected hands-on offensive security credentials in the industry
+**During the independent research period:**
+- Completed **80+ full machine exploitation chains** across OffSec Proving Grounds and TryHackMe — each documented end-to-end
+- Compiled **2,600+ structured personal notes** into a public penetration testing reference across 12 attack categories
+- Earned **OSCP+** — a 24-hour hands-on practical examination with no multiple-choice elements and no partial credit
 
 ---
 
-## 📂 Featured Work
+## 📂 Featured Repositories
 
 ### 🔴 [penetration-testing-writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
-> 80+ OSCP-style machine writeups — full exploitation chains from enumeration to root/SYSTEM proof.
+
+**80+ OSCP-style machine writeups** — full exploitation chains from enumeration to root/SYSTEM proof.
 
 | Platform | Category | Machines |
 |---|---|---|
@@ -62,16 +67,18 @@ During my independent research period, I:
 | OffSec Proving Grounds | Practice | 34+ |
 
 Every writeup follows a strict methodology:
+
 ```
 Enumeration → Service Analysis → Initial Access → Privilege Escalation → Proof
 ```
 
 ---
 
-### 📘 [pentest-cheatsheet](https://github.com/vimalraj-sec/pentest-cheatsheet)
-> A complete offensive security reference — compiled from 2,600+ personal notes during OSCP preparation.
+### 📘 [penetration-testing-cheatsheet-offsec](https://github.com/vimalraj-sec/penetration-testing-cheatsheet-offsec)
 
-| # | Section | What's Inside |
+**A complete offensive security reference** — compiled from 2,600+ personal notes during OSCP preparation. Structured for real engagement use, not just exam revision.
+
+| # | Section | Coverage |
 |---|---|---|
 | 00 | 🐚 Shells & File Transfer | Reverse shells, shell upgrades, Linux/Windows file transfer |
 | 01 | 🔍 Reconnaissance | Nmap, Rustscan, web fingerprinting, environment setup |
@@ -93,20 +100,23 @@ Enumeration → Service Analysis → Initial Access → Privilege Escalation →
 **Exploitation & Enumeration**
 `Nmap` `Rustscan` `Burp Suite` `ffuf` `Gobuster` `Feroxbuster` `Metasploit` `msfvenom`
 
-**Active Directory Attacks**
+**Active Directory**
 `BloodHound` `Impacket` `Netexec` `Rubeus` `Mimikatz` `Evil-WinRM`
 
 **Privilege Escalation**
-`WinPEAS` `LinPEAS` `GTFOBins` `LOLBAS`
+`WinPEAS` `LinPEAS` `PEASS-ng` `GTFOBins` `LOLBAS`
 
 **Web Application Security**
 `sqlmap` `SQLi` `LFI/RFI` `SSTI` `File Upload Bypass` `OWASP Top 10`
 
-**Pivoting & Tunneling**
+**Pivoting & Tunnelling**
 `Ligolo-ng` `Chisel` `SSH Port Forwarding` `netsh`
 
 **Password Attacks**
 `Hashcat` `John the Ripper` `Hydra` `CrackMapExec`
+
+**Scripting**
+`Python` `Bash` `PowerShell`
 
 **Platforms**
 `Kali Linux` `OffSec Proving Grounds` `TryHackMe`
@@ -148,17 +158,17 @@ TARGET
 
 ---
 
-## 📬 Let's Connect
+## 📬 Connect
 
-I'm actively looking for **VAPT / Penetration Tester** roles in Chennai or remote. If you're a recruiter or hiring manager, feel free to reach out.
+I'm actively looking for **Penetration Tester / Red Team** roles in Chennai or remote, and open to EU relocation. If you're a recruiter or hiring manager, feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vimalraj--sec-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vimalraj-sec)
-[![Email](https://img.shields.io/badge/Email-vimalrajm.sec%40gmail.com-D14836?style=flat&logo=gmail)](mailto:vimalrajm.sec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vimalraj--sec-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalraj-sec)
+[![Email](https://img.shields.io/badge/Email-vimalrajm.sec%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vimalrajm.sec@gmail.com)
 
 ---
 
 <div align="center">
 
-*⚠️ All content in these repositories is for authorized security testing and educational purposes only.*
+*⚠️ All content in these repositories is for authorised security testing and educational purposes only.*
 
 </div>
