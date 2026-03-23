@@ -30,7 +30,7 @@ Topics: Active Directory · Windows Exploitation · Linux Exploitation · Privil
 Every writeup follows the same structured methodology:
 `Enumeration → Initial Access → Privilege Escalation → Proof`
 
-### 📘 [penetration-testing-cheatsheet-offsec](https://github.com/vimalraj-sec/penetration-testing-cheatsheet-offsec)
+### 📘 [penetration-testing-cheatsheet](https://github.com/vimalraj-sec/pentest-cheatsheet)
 **A complete offensive security reference** compiled from 2,600+ personal notes built during OSCP preparation.
 
 12 structured sections covering:
