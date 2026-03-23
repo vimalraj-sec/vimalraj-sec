@@ -13,9 +13,11 @@
 
 I'm an offensive security professional based in **Chennai, India**, specializing in penetration testing, Active Directory attacks, and web application security.
 
-I started my career in Information Security in **2017** at **Iopex Technologies** , moved to **Infosys Ltd**, and from **2019 to 2025** took time away from the workforce to manage a serious family medical crisis. During those years, I never stopped studying — I built 2,600+ personal notes, completed 80+ full machine exploitation chains, and earned the **OSCP+** certification in November 2025.
+I started my career in Information Security in 2017 at Iopex Technologies and later worked at Infosys Ltd.
 
-I'm not a career changer. I'm a security professional who faced a life crisis, kept going, and came back stronger.
+From 2019 to 2025, I stepped away from the workforce to manage a serious family medical situation while also running our family business. During this time, I stayed committed to cybersecurity — saving money, self-funding my learning, and continuously building my skills.
+
+I created 2,600+ structured notes, completed 80+ full machine exploitation chains, and earned the OSCP+ certification in November 2025.
 
 > 💼 **Actively seeking VAPT / Penetration Tester roles — open to Chennai-based and remote opportunities.**
 
