@@ -15,7 +15,7 @@ I'm an offensive security professional based in Chennai, India, specialising in 
 
 I started my career in information security in 2017 at Iopex Technologies, then moved to Infosys Ltd. In 2019, a serious family medical crisis required me to step away from my career to become the primary caregiver and take over running our family business.
 
-I never let go of cybersecurity. While managing the business and family responsibilities, I kept studying — methodically and consistently. 
+I never let go of cybersecurity. While managing the business and family responsibilities, I kept studying — methodically and consistently.
 
 I saved money specifically to self-fund my OSCP+ preparation, built 2,600+ structured personal notes, completed 80+ full machine exploitation chains across OffSec Proving Grounds and TryHackMe, and passed the OSCP+ examination in November 2025.
 That certification cost me real sacrifice to earn. Which is exactly why I value it.
@@ -48,6 +48,27 @@ I'm not a career changer. I'm a security professional who faced a hard chapter, 
 
 
 ## 📂 Featured Repositories
+
+### 🔴 [active-directory-pentesting](https://github.com/vimalraj-sec/active-directory-pentesting)
+
+**Complete Active Directory penetration testing reference** — full attack chain from zero credentials to Domain Admin, built from real lab practice across HTB, TryHackMe, and a custom local AD lab.
+
+| Phase | Coverage |
+|---|---|
+| 🔍 Recon | DC identification, port scanning, SMB fingerprinting |
+| 🗂️ Domain Enumeration | Kerbrute, ldapdomaindump, RID brute, BloodHound — with and without creds |
+| 🔑 Credential Attacks | AS-REP Roasting, Kerberoasting, Password Spray, Responder |
+| 🔀 Lateral Movement | Pass-the-Hash, Overpass-the-Hash, evil-winrm, RDP, PSExec |
+| ⬆️ Privilege Escalation | BloodHound paths, ACL abuse, ADCS / Certipy (ESC1/ESC4) |
+| 👑 Domain Dominance | DCSync, Golden Ticket, Silver Ticket, NTDS dump |
+
+**Also includes:**
+- Machine writeups — HTB Forest, Active, Sauna · THM Attacktive Directory, Enterprise
+- Custom Python scripts — BloodHound collector, safe password spray tool
+- Full local lab setup — DC01 (Windows Server 2025) + MS01 + MS02 (Windows 11)
+- MITRE ATT&CK mapped throughout
+
+---
 
 ### 🔴 [penetration-testing-writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
 
@@ -96,7 +117,7 @@ Enumeration → Service Analysis → Initial Access → Privilege Escalation →
 `Nmap` `Rustscan` `Burp Suite` `ffuf` `Gobuster` `Feroxbuster` `Metasploit` `msfvenom`
 
 **Active Directory**
-`BloodHound` `Impacket` `Netexec` `Rubeus` `Mimikatz` `Evil-WinRM`
+`BloodHound` `Impacket` `Netexec` `Rubeus` `Mimikatz` `Evil-WinRM` `Certipy`
 
 **Privilege Escalation**
 `WinPEAS` `LinPEAS` `PEASS-ng` `GTFOBins` `LOLBAS`
@@ -114,7 +135,7 @@ Enumeration → Service Analysis → Initial Access → Privilege Escalation →
 `Python` `Bash` `PowerShell`
 
 **Platforms**
-`Kali Linux` `OffSec Proving Grounds` `TryHackMe`
+`Kali Linux` `OffSec Proving Grounds` `TryHackMe` `HackTheBox`
 
 ---
 
