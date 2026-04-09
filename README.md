@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vimal Raj
+# Vimal Raj M
 ### Offensive Security Professional · OSCP+ Certified · Chennai, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vimalraj--sec-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalraj-sec)
@@ -17,8 +17,7 @@ I started my career in information security in 2017 at Iopex Technologies, then 
 
 I never let go of cybersecurity. While managing the business and family responsibilities, I kept studying — methodically and consistently.
 
-I saved money specifically to self-fund my OSCP+ preparation, built 2,600+ structured personal notes, completed 80+ full machine exploitation chains across OffSec Proving Grounds and TryHackMe, and passed the OSCP+ examination in November 2025.
-That certification cost me real sacrifice to earn. Which is exactly why I value it.
+I saved money specifically to self-fund my OSCP+ preparation, built 2,600+ structured personal notes, completed 80+ full machine exploitation chains across OffSec Proving Grounds and TryHackMe, and passed the OSCP+ examination in November 2025. That certification cost me real sacrifice to earn. Which is exactly why I value it.
 
 I'm not a career changer. I'm a security professional who faced a hard chapter, never walked away from the field, and came back with proof.
 
@@ -30,7 +29,6 @@ I'm not a career changer. I'm a security professional who faced a hard chapter, 
 | Certification | Issuer | Year |
 |---|---|---|
 | **OSCP+** — Offensive Security Certified Professional Plus | OffSec | Nov 2025 |
-| **ECSA v9** — EC-Council Certified Security Analyst | EC-Council | 2018 |
 
 
 ## 💼 Professional Background
@@ -68,7 +66,31 @@ I'm not a career changer. I'm a security professional who faced a hard chapter, 
 - Full local lab setup — DC01 (Windows Server 2025) + MS01 + MS02 (Windows 11)
 - MITRE ATT&CK mapped throughout
 
----
+
+### 🌐 [web-app-pentesting](https://github.com/vimalraj-sec/web-app-pentesting)
+
+**Complete web application penetration testing reference** — methodology-driven, aligned with OWASP Top 10:2025 including both new categories added this cycle.
+
+| # | Section | Coverage |
+|---|---|---|
+| 00 | 🗺️ Methodology | Full engagement workflow — 6 phases, Burp setup, notes format |
+| 01 | 🔍 Recon & Enumeration | Subdomain enum, dir busting, JS analysis, Nikto, Nuclei |
+| 02 | 🔐 Authentication Testing | Brute force, MFA bypass, JWT attacks, session management |
+| 03 | 🚪 Broken Access Control | IDOR, SSRF + cloud metadata, CORS, path traversal — A01:2025 |
+| 04 | 💉 Injection Attacks | SQLi, CMDi, SSTI, XXE, LFI/RFI, NoSQLi — A04:2025 |
+| 05 | 🖥️ XSS & Client-Side | Reflected, Stored, DOM XSS, CSRF, Clickjacking, Open Redirect |
+| 06 | ⚙️ Security Misconfiguration | Headers, Spring Actuator, cloud storage, HTTP methods — A02:2025 |
+| 07 | 🔒 Cryptographic Failures | Weak hashing, hardcoded secrets, insecure transmission |
+| 08 | 🏗️ Insecure Design | Business logic flaws, race conditions, workflow bypass — A05:2025 |
+| 09 | 📦 Software Supply Chain | Vulnerable components, exposed .git, SRI checks — A03:2025 NEW |
+| 10 | ✅ Software & Data Integrity | Insecure deserialization — Java, PHP, Python pickle — A08:2025 |
+| 11 | 📋 Logging & Alerting | Log testing, log injection, detection gap evidence — A09:2025 |
+| 12 | ⚠️ Exceptional Conditions | Fail-open, verbose errors, ReDoS, resource exhaustion — A10:2025 NEW |
+| 13 | 🔌 API Testing | BOLA, BFLA, mass assignment, GraphQL, rate limiting |
+| 14 | 📁 File Upload Attacks | Extension bypass, polyglot, zip slip, SVG XXE, webshell |
+| 15 | 🛠️ Tools & Wordlists | Burp, ffuf, sqlmap, nuclei, jwt_tool — all commands in one place |
+| 16 | 📝 Report Templates | Finding format, CVSS vectors, severity justification guide |
+
 
 ### 🔴 [penetration-testing-writeups](https://github.com/vimalraj-sec/penetration-testing-writeups)
 
@@ -88,9 +110,8 @@ Every writeup follows a strict methodology:
 Enumeration → Service Analysis → Initial Access → Privilege Escalation → Proof
 ```
 
----
 
-### 📘 [penetration-testing-cheatsheet-offsec](https://github.com/vimalraj-sec/pentest-cheatsheet)
+### 📘 [pentest-cheatsheet](https://github.com/vimalraj-sec/pentest-cheatsheet)
 
 **A complete offensive security reference** — compiled from 2,600+ personal notes during OSCP preparation. Structured for real engagement use, not just exam revision.
 
@@ -109,7 +130,6 @@ Enumeration → Service Analysis → Initial Access → Privilege Escalation →
 | 10 | 🛠️ Tools Reference | Hydra, ffuf, sqlmap, hashcat, msfvenom, netexec |
 | 11 | ✅ Exam Checklists | Initial access, web, Windows/Linux privesc, AD attack chains |
 
----
 
 ## 🛠️ Technical Skills
 
@@ -119,11 +139,14 @@ Enumeration → Service Analysis → Initial Access → Privilege Escalation →
 **Active Directory**
 `BloodHound` `Impacket` `Netexec` `Rubeus` `Mimikatz` `Evil-WinRM` `Certipy`
 
-**Privilege Escalation**
-`WinPEAS` `LinPEAS` `PEASS-ng` `GTFOBins` `LOLBAS`
-
 **Web Application Security**
-`sqlmap` `SQLi` `LFI/RFI` `SSTI` `File Upload Bypass` `OWASP Top 10`
+`sqlmap` `SQLi` `SSTI` `XXE` `LFI/RFI` `File Upload Bypass` `JWT Attacks` `OWASP Top 10:2025`
+
+**API Security**
+`BOLA` `BFLA` `Mass Assignment` `GraphQL Testing` `REST API Testing`
+
+**Privilege Escalation**
+`WinPEAS` `LinPEAS` `GTFOBins` `LOLBAS`
 
 **Pivoting & Tunnelling**
 `Ligolo-ng` `Chisel` `SSH Port Forwarding` `netsh`
@@ -137,7 +160,6 @@ Enumeration → Service Analysis → Initial Access → Privilege Escalation →
 **Platforms**
 `Kali Linux` `OffSec Proving Grounds` `TryHackMe` `HackTheBox`
 
----
 
 ## 🧠 Attack Methodology
 
@@ -161,6 +183,7 @@ TARGET
   │      ├─ LFI → log poisoning / php wrappers
   │      ├─ File upload bypass → webshell
   │      ├─ SSTI → RCE
+  │      ├─ API → BOLA / BFLA / mass assignment
   │      └─ CMS → wpscan / joomscan / droopescan
   │
   ├─ 04. POST-EXPLOITATION
@@ -172,7 +195,6 @@ TARGET
          └─ Ligolo-ng → new subnet → repeat from step 01
 ```
 
----
 
 ## 📬 Connect
 
